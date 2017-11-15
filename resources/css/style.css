@@ -22,3 +22,18 @@ h1 {
   font-size: 70px;
   font-weight: bold;
 }
+
+/* Makes all h2 elments 32px and bold */
+h2 {
+  font-size: 32px;
+  font-weight: bold;
+}
+
+h3 {
+  font-size: 23px;
+  font-weight: bold;
+}
+
+p {
+  font-size: 14px;
+}
