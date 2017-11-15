@@ -29,11 +29,21 @@ h2 {
   font-weight: bold;
 }
 
+/* Makes all h3 elements 23px and bold */
 h3 {
   font-size: 23px;
   font-weight: bold;
 }
 
+/* Makes all p elements 14px */
 p {
   font-size: 14px;
+}
+
+.footer,
+.footer a {
+  background-color: dimgray;
+  font-size: 11px;
+  color: white;
+  text-align: left;
 }
