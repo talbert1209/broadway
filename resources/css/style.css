@@ -3,3 +3,9 @@ body {
   font-family: Helvetica;
   text-align: center;
 }
+
+/* Add background imgage to headings */
+.heading,
+.fill {
+  background-image: url("../images/background-building.png");
+}
