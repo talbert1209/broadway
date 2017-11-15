@@ -8,4 +8,17 @@ body {
 .heading,
 .fill {
   background-image: url("../images/background-building.png");
+  color: white;
+}
+
+/* Makes heading anchor tags white and 18px */
+.heading a {
+  color: white;
+  font-size: 18px;
+}
+
+/* Makes all h1 elements 70px and bold */
+h1 {
+  font-size: 70px;
+  font-weight: bold;
 }
